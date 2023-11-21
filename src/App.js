@@ -1,11 +1,11 @@
 import "./App.scss";
-import TaskList from "./components/TaskList";
+import  UncontrolledInputs from './components/form/UncontrolledInputs';
 
 
 function App() {
   return (
    <div>
-      <TaskList />
+      <UncontrolledInputs />
    </div>
   );
 } 
