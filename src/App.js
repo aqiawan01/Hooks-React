@@ -1,11 +1,11 @@
 import "./App.scss";
-import  UncontrolledInputs from './components/form/UncontrolledInputs';
+import  UseReducerBasics from './components/useReducer/UseReducerBasics';
 
 
 function App() {
   return (
    <div>
-      <UncontrolledInputs />
+      <UseReducerBasics />
    </div>
   );
 } 

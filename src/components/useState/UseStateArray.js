@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {peopleData} from '../people-data.js';
+import {peopleData} from '../../people-data.js';
 import {BiTrash} from 'react-icons/bi';
 
  
